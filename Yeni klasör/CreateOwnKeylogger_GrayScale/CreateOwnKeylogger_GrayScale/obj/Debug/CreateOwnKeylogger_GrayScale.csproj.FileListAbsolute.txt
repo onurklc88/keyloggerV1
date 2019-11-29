@@ -1,0 +1,10 @@
+D:\Projects\keylogger\canta\Yeni klasör\CreateOwnKeylogger_GrayScale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.csprojAssemblyReference.cache
+D:\Projects\keylogger\canta\Yeni klasör\CreateOwnKeylogger_GrayScale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.Form1.resources
+D:\Projects\keylogger\canta\Yeni klasör\CreateOwnKeylogger_GrayScale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.Properties.Resources.resources
+D:\Projects\keylogger\canta\Yeni klasör\CreateOwnKeylogger_GrayScale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.csproj.GenerateResource.cache
+D:\Projects\keylogger\canta\Yeni klasör\CreateOwnKeylogger_GrayScale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.csproj.CoreCompileInputs.cache
+D:\Projects\keylogger\canta\Yeni klasör\CreateOwnKeylogger_GrayScale\CreateOwnKeylogger_GrayScale\bin\Debug\CreateOwnKeylogger_GrayScale.exe.config
+D:\Projects\keylogger\canta\Yeni klasör\CreateOwnKeylogger_GrayScale\CreateOwnKeylogger_GrayScale\bin\Debug\CreateOwnKeylogger_GrayScale.exe
+D:\Projects\keylogger\canta\Yeni klasör\CreateOwnKeylogger_GrayScale\CreateOwnKeylogger_GrayScale\bin\Debug\CreateOwnKeylogger_GrayScale.pdb
+D:\Projects\keylogger\canta\Yeni klasör\CreateOwnKeylogger_GrayScale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.exe
+D:\Projects\keylogger\canta\Yeni klasör\CreateOwnKeylogger_GrayScale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.pdb

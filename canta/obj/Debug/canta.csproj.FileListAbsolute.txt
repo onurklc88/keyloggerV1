@@ -1,0 +1,9 @@
+D:\Projects\keylogger\canta\canta\bin\Debug\canta.pdb
+D:\Projects\keylogger\canta\canta\obj\Debug\canta.csprojAssemblyReference.cache
+D:\Projects\keylogger\canta\canta\obj\Debug\canta.Form1.resources
+D:\Projects\keylogger\canta\canta\obj\Debug\canta.csproj.GenerateResource.cache
+D:\Projects\keylogger\canta\canta\obj\Debug\canta.csproj.CoreCompileInputs.cache
+D:\Projects\keylogger\canta\canta\obj\Debug\canta.pdb
+D:\Projects\keylogger\canta\canta\bin\Debug\canta.exe.config
+D:\Projects\keylogger\canta\canta\bin\Debug\canta.exe
+D:\Projects\keylogger\canta\canta\obj\Debug\canta.exe
